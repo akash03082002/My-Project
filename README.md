@@ -1,4 +1,4 @@
 # My-Project
-College_Projects
+College_Projects Repositrory
 <br>
 Welcome to College_Projects
